@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Microsoft Sql Server](https://img.shields.io/badge/-microsoft-sql-server-000000?style=flat&logo=microsoft-sql-server)
+![MicrosoftSqlServer](https://img.shields.io/badge/-microsoft-sql-server-000000?style=flat&logo=microsoft-sql-server)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
