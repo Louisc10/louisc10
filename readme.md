@@ -38,7 +38,13 @@
 
 <br>
 
+![vincentzhangz's github stats](https://github-readme-stats.louisc10.vercel.app/api?username=louisc10&show_icons=true)
 
+<br>
+
+[![Most Used Languages](https://github-readme-stats.louisc10.vercel.app/api/top-langs/?username=louisc10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 [linkedin]: https://www.linkedin.com/in/louis-c-26b4a610b/
 [facebook]: https://www.facebook.com/louis.choules.7
