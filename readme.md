@@ -27,8 +27,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![VsCode](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=1575F9)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-
 <br>
 
 #### Connect with me:
