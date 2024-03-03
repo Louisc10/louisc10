@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Vue.js](https://img.shields.io/badge/-vue.js-000000?style=flat&logo=vue.js)
 
 #### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
