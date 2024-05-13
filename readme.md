@@ -1,6 +1,7 @@
 ### Hi there, I'm Louis Choules <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ## I'm a Université Grenoble Alpes M2 Computer Science Student!
+- 🍀 I'm specialized in Front-end Developer
 - 🍀 I’m currently learning Game Design Programing and Computer Graphic
 
 <br>
